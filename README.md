@@ -1,9 +1,13 @@
 # Metodologia-
 
 # Portafolio Digital - Unidad 1
+
 **Estudiante:** Ana Cristina Panamito Flores
-**Carrera:** Computer Science  
+
+**Carrera:** Carrera de computaciones 
+
 **Universidad:** UNIVERSIDAD NACIONAL DE LOJA
+
 **Fecha:** 3 Junio 2026
 
 ## Contenidos
